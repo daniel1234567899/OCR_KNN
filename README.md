@@ -1,4 +1,4 @@
-Las imagenes que se encuentran fuera de carpetas, las utilizaremos para la prueba del codigo/n
+Las imagenes que se encuentran fuera de carpetas, las utilizaremos para la prueba del codigo\n
 Prueba.py es nuestro codigo OCR
 Caracteristicas.csv: dataset
 OCR.pdf: Reporte de practica
